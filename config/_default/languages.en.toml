@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Hey it's me!"
+title = "Portfolio"
 copyright = "Made with :heart: by Jack"
 
 [params]
@@ -14,11 +14,11 @@ copyright = "Made with :heart: by Jack"
 
 [params.author]
    name = "Jack :)"
-   image = "img/author.jpg"
-   headline = "I'm only human"
+   image = "img/ducki.png"
+   headline = "I do stuff sometimes"
    bio = "A little bit about you"
    links = [
-     { email = "mailto:me@jackk.dev" }
+     { email = "mailto:me@jackk.dev" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -30,7 +30,7 @@ copyright = "Made with :heart: by Jack"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+     { github = "https://github.com/amazingsupdawg" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
