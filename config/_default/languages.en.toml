@@ -7,8 +7,7 @@ title = "Portfolio"
 copyright = "Made with :heart: by Jack"
 
 [params]
-  dateFormat = "January 2 2006"
-
+  dateFormat = "January 1 2006"
   mainSections = ["section1", "section2"]
   description = "My awesome website"
 
@@ -16,7 +15,7 @@ copyright = "Made with :heart: by Jack"
    name = "Jack :)"
    image = "img/ducki.png"
    headline = "I do stuff sometimes"
-   bio = "A little bit about you"
+   bio = "i make stuff idk"
    links = [
      { email = "mailto:me@jackk.dev" },
   #   { link = "https://link-to-some-website.com/" },
