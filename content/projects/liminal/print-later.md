@@ -54,7 +54,7 @@ For deeper, more technical information
             Developer note: The reason why Mk4 has additional logic is due to Mk4 file uploads historically taking a long time, this was fixed in a later patch
             {{< /badge >}}
 
-        1. Mk3 (Octoprint)
+        2. Mk3 (Octoprint)
         
     
    {{< alert >}}
