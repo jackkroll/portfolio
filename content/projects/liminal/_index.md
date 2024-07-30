@@ -1,6 +1,6 @@
 ---
 title: "Liminal"
-showDate: True
+showDate: False
 showReadingTime: False
 showAuthor: False
 ---
