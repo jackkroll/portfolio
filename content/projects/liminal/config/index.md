@@ -66,4 +66,13 @@ Learn more about accounts
 {{< /button >}}
 ___
 
+# Setup
+Setup will be run if 1 of the following conditions are met
+1. `/ref/config.json` does not exist
+2. There are no accounts in `config`
+3. There are no printers in `config`
 
+You will be automatically redirected from the home page if you do not have all of those items fulfilled\
+\
+Additionally you will be unable to setup more root users through setup, however to add additional printers you can access that page again
+____
