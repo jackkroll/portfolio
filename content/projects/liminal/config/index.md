@@ -21,7 +21,8 @@ Note the difference in the IP Address bar to determine if it's Octoprint or Prus
 "Printer Name": {
         "ipAddress": "http://ipaddr.local",
         "prefix": "PF",
-        "apiKey": "ABCDEFGHIJKLMNOPQURSTUVWXYZ12345",
+        "apiKey": "ABCDEFGHIJKLMNOPQURSTUVWXYZ12345"
+}
 {{< /highlight >}}
 ____
 ### Example of a Mk4 printer
@@ -30,7 +31,7 @@ ____
 "Printer Name": {
         "Mk4IPAddress": "http://ipaddr.local",
         "prefix": "PF",
-        "apiKey": "ABCDEFGHIJKLMNOPQURSTUVWXYZ12345",
+        "apiKey": "ABCDEFGHIJKLMNOPQURSTUVWXYZ12345"
     }
 {{< /highlight >}}
 
@@ -50,7 +51,7 @@ ____
             "hash": null,
             "role": "student"
         }
-    },
+    }
 {{< /highlight >}}
 
 Hash indicates the hash for the users password. If it is `null` it indicates the user is actively resetting their password and it will be set upon next login
