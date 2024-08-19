@@ -34,6 +34,10 @@ I haven't been able to get to a few things and some suggestions I have would be
 This would likely be after an update that releases serial commands either via api or unlocks the serial port on the printer
 {{< /badge >}}
 
+{{< alert "lightbulb">}}
+With the release of the Prusa MK4s, it's possible the serial ports are enabled, but you can also get a plethora of information through the [**"hackerboard"**](https://www.prusa3d.com/product/gpio-set/) and with minimal code **can be added seamlessly to LMNL**
+{{< /alert >}}
+\
 {{< button href="/projects/liminal/first-time" >}}
 Don't know how to start? Click here
 {{< /button >}}
