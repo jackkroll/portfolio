@@ -16,9 +16,9 @@ We follow simple principles when it comes to your data:
 
 ### Information you provide
 
-**Camera access**. Minimal Light Meter requires access to your camera in order to function. This information is only used on-device, and is not shared with any third-party. If you choose to share a bug report, you may choose to send some metadata to us. This information will only be used to diagnose and fix problems.
+**Local Storage**. Counter App stores information regarding your counts. This information is only used on-device to provide core functionality, and is not shared with any third-party or uploaded online. If you choose to share a bug report, you may choose to send some metadata to us. This information will only be used to diagnose and fix problems.
 
-**Managing your information**. All information used by Minimal Light Meter is stored on-device, and can be managed through Minimal Light Meter’s application Settings, or through Apple's system controls.
+**Managing your information**. All information used by Minimal Light Meter is stored on-device, and can be managed within the application, or through Apple's system controls.
 
 ### How we share your information
 We do not share any information at any time.
@@ -27,5 +27,5 @@ We do not share any information at any time.
 This privacy policy will be updated as needed so that it is accurate, current, and clear.
 
 ### Contact Us
-If you have questions about this Privacy Policy please contact [support@jackk.dev](mailto:support@jackk.dev?subject=[Light Meter])
+If you have questions about this Privacy Policy please contact [support@jackk.dev](mailto:support@jackk.dev?subject=[Counter App])
 Effective as of July 16th, 2024

@@ -13,18 +13,18 @@ ____
 
 ## Role Higherarchy System
 {{< mermaid >}}
-graph BT;
+graph LR;
 R([Restricted])-->S([Student]);
 S-->M([Manager])
 M-->D([Developer])
 {{< /mermaid >}}
 
-| Role          | Permissions |
-| -----         | ---               |
-| Developer     | Debug and developer page        |
-| Manager       | Manage user accounts           |
-| Student       | Use printers          |
-| Restricted    | View printers          |
+| Role          | Permissions                     |
+| -----         |---------------------------------|
+| Developer     | Debug and developer page access |
+| Manager       | Manage user accounts            |
+| Student       | Use printers                    |
+| Restricted    | View printers                   |
 ## Password Reset system <kbd>All Users</kbd>
 
 There is a very simple password reset system with a few options
