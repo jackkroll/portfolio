@@ -27,5 +27,5 @@ We do not share any information at any time.
 This privacy policy will be updated as needed so that it is accurate, current, and clear.
 
 ### Contact Us
-If you have questions about this Privacy Policy please contact [support@jackk.dev](mailto:support@jackk.dev?subject=[Light Meter])
+If you have questions about this Privacy Policy please contact [support@jackk.dev](mailto:support@jackk.dev?subject=[Light-Meter])
 Effective as of July 16th, 2024
