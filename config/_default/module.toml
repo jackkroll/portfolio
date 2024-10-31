@@ -1,3 +1,6 @@
+[[imports]]
+path = "github.com/rootwork/hugo-module-gallery-grid"
+
 [hugoVersion]
   extended = true
   min = "0.87.0"
