@@ -1,5 +1,7 @@
 [[imports]]
-path = "github.com/rootwork/hugo-module-gallery-grid"
+path = "github.com/mfg92/hugo-shortcode-gallery"
+
+
 
 [hugoVersion]
   extended = true
