@@ -12,3 +12,5 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+timeout = 60000
