@@ -1,12 +1,12 @@
 ---
 title: "Berlin-Prague"
-showDate: False
+showDate: True
 showReadingTime: False
 showAuthor: False
+date: 2023-07-12
 ---
 Olympus Pen EES-2\
-Kodak Ultramax 400\
-Berlin & Prague
+Kodak Ultramax 400
 
 {{< gallery 
   match="img/*" 

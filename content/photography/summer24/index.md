@@ -1,8 +1,9 @@
 ---
 title: "Summer 2024"
-showDate: False
+showDate: True
 showReadingTime: False
 showAuthor: False
+date: 2024-06-08
 ---
 Canon AE-1 (35mm)\
 Fujica Six IICS B Variant (120)\

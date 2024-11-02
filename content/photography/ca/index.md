@@ -1,11 +1,12 @@
 ---
 title: "Vancouver"
-showDate: False
+showDate: True
 showReadingTime: False
 showAuthor: False
+date: 2024-03-21
 ---
 LomoApparat\
-Kodak Ultramax 400\
+Kodak Ultramax 400
 
 {{< gallery 
   match="img/*" 

@@ -7,7 +7,7 @@ title = "Jack K"
 copyright = "Made with :heart: by Jack"
 
 [params]
-  dateFormat = "January 1 2006"
+  dateFormat = "January 2006"
   mainSections = ["section1", "section2"]
   description = "jack kroll's portfolio :)"
 

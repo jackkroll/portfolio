@@ -1,8 +1,9 @@
 ---
 title: "Hawaii"
-showDate: False
+showDate: True
 showReadingTime: False
 showAuthor: False
+date: 2024-08-12
 ---
 Fujica Six IICS B Variant\
 Cinestill 400D

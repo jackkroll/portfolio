@@ -1,8 +1,9 @@
 ---
 title: "Portugal"
-showDate: False
+showDate: True
 showReadingTime: False
 showAuthor: False
+date: 2024-06-20
 ---
 Canon AE-1\
 Kodak Ultramax 400\

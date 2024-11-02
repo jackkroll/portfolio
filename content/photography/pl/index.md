@@ -1,11 +1,12 @@
 ---
 title: "Poznan"
-showDate: False
+showDate: True
 showReadingTime: False
 showAuthor: False
+date: 2023-06-12
 ---
 Olympus Pen EES-2\
-Kodak Ultramax 400\
+Kodak Ultramax 400
 
 {{< gallery 
   match="img/*" 

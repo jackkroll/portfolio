@@ -1,12 +1,11 @@
 ---
 title: "Los Angeles - San Fransisco"
-showDate: False
+showDate: True
 showReadingTime: False
 showAuthor: False
+showSummary: True
+date: 2023-03-26
 ---
-Kodak Ektar H35\
-Kodak Gold 400
-
 {{< gallery 
   match="img/*" 
   sortOrder="desc" 

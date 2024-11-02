@@ -1,8 +1,9 @@
 ---
 title: "MTU Fall 2024"
-showDate: False
+showDate: True
 showReadingTime: False
 showAuthor: False
+date: 2024-10-09
 ---
 Canon AE-1\
 Kodak Ultramax 400
