@@ -1,3 +1,8 @@
+[[imports]]
+path = "github.com/mfg92/hugo-shortcode-gallery"
+
+
+
 [hugoVersion]
   extended = true
   min = "0.87.0"
