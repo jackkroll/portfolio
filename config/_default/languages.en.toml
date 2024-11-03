@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Jack K"
+title = "Jack's Portfolio"
 copyright = "Made with :heart: by Jack"
 
 [params]
@@ -16,6 +16,8 @@ copyright = "Made with :heart: by Jack"
    image = "img/ducki.png"
    headline = "I do stuff sometimes"
    bio = "i make stuff idk"
+   pronouns = "*he/they*"
+   flags = ":rainbow_flag:"
    links = [
      { email = "mailto:me@jackk.dev" },
   #   { link = "https://link-to-some-website.com/" },
